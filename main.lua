@@ -102,8 +102,8 @@ spawn(function()
 end)
 --[[
 pcall(function()
-    Service.TextChannels.RBXSystem:DisplaySystemMessage("<font color='#00ff80'>Alchemy Hub On Top #1</font>")
-    Service.TextChannels.RBXSystem:DisplaySystemMessage("<font color='#9aaaff'>Join our discord at discord.gg/alchemyhub</font>")
+    Service.TextChannels.RBXSystem:DisplaySystemMessage("<font color='#00ff80'>Nakhun Hub On Top #1</font>")
+    Service.TextChannels.RBXSystem:DisplaySystemMessage("<font color='#9aaaff'>Join our discord at discord.gg/hrGTJuh9et</font>")
 end)]]
 local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/__Script/refs/heads/main/__UI1.lua"))()
 if game.GameId == 5750914919 then -- for fisch
